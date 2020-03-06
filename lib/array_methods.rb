@@ -11,5 +11,5 @@ def using_reverse(arr)
 end
 
 def using_first(arr)
-  arr.pop
+  arr.first
 end
