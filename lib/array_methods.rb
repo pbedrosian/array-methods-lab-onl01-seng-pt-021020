@@ -7,9 +7,13 @@ def using_sort(arr)
 end
 
 def using_reverse(arr)
-  arr.reverse
+  arr.reverse #takes array and reverses the items
 end
 
 def using_first(arr)
-  arr.first
+  arr.first #takes in array and returns first item in array
+end
+
+def using(arr)
+  arr.last
 end
