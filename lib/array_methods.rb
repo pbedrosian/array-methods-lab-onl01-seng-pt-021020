@@ -9,3 +9,7 @@ end
 def using_reverse(arr)
   arr.reverse
 end
+
+def using_first(arr)
+  arr.pop
+end
