@@ -14,6 +14,6 @@ def using_first(arr)
   arr.first #takes in array and returns first item in array
 end
 
-def using(arr)
+def using_last(arr)
   arr.last
 end
