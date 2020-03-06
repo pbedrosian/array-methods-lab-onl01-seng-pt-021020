@@ -7,4 +7,4 @@ def using_sort(arr)
 end
 
 def using_reverse(arr)
-  
+  arr.reverse
