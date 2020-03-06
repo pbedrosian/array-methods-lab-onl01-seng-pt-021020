@@ -15,5 +15,9 @@ def using_first(arr)
 end
 
 def using_last(arr)
-  arr.last
+  arr.last #takes in array and returns last item
+end
+
+def using_size(arr)
+  arr.length
 end
